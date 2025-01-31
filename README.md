@@ -1,7 +1,7 @@
 # GenAI Task
 
 ## Overview
-GenAI Task is a simple project designed to run using Streamlit. Follow the steps below to set up and run the application on your local machine.
+I use Streamlit framework. Follow the steps below to set up and run the application on your local machine.
 
 ## Prerequisites
 Ensure you have the following installed:
